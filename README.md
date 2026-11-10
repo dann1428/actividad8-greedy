@@ -1,4 +1,4 @@
-# Actividad 8: Algoritmos Voraces (Greedy)
+# Actividad 7: Algoritmos Voraces (Greedy)
 
 Soluciones en Python 3 a dos problemas de optimización, usando la técnica voraz. No necesitan instalar librerías.
 
